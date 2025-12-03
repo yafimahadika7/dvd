@@ -1,0 +1,6 @@
+| No | Username      | Password         | Role      | Keterangan                       |
+| -- | ------------- | ---------------- | --------- | -------------------------------- |
+| 1  | **admin**     | **admin123**     | admin     | Akses penuh semua fitur          |
+| 2  | **petugas**   | **petugas123**   | petugas   | Kelola DVD, pelanggan, transaksi |
+| 3  | **pemilik**   | **pemilik123**   | pemilik   | Hanya melihat laporan & data     |
+| 4  | **ranggaroris** | **pelanggan123** | pelanggan | Masuk ke portal pelanggan cek riwayat transaksi       |
